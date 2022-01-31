@@ -29,6 +29,9 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## Video Walkthrough
 https://youtu.be/FVxvBmvYZ64
 
+## Screenshot
+![](./assets/images/sql-employee-tracker.png)
+
 ## Installation
 
 run the following in the terminal:
